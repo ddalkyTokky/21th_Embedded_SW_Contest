@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map"
+            android:title="@string/menu_map" />
+        <item
+            android:id="@+id/nav_bluetooth"
+            android:icon="@drawable/ic_bluetooth"
+            android:title="@string/menu_bluetooth" />
+        <item
+            android:id="@+id/nav_arrow"
+            android:icon="@drawable/ic_arrow"
+            android:title="@string/menu_arrow" />
+
+        <item
+            android:id="@+id/nav_photo"
+            android:icon="@drawable/ic_photo"
+            android:title="@string/menu_photo" />
+    </group>
+</menu>
