@@ -3,6 +3,8 @@
 >**[AfterUIRedesign(Coex)](https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/AfterUIRedesign(Coex))**      
 >**[Embedded_code](https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/tree/Embedded_code)**
 
+# [시연영상] (https://www.youtube.com/watch?v=AbLxZkI1KmE)
+
 # UWB Based Parked Car Tracking Service
 ![프로젝트X 최종발표_page-0002](https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/assets/47583083/296d74d0-31c5-48eb-b663-66ae3afd8f36)
 ![프로젝트X 최종발표_page-0004](https://github.com/ddalkyTokky/21th_Embedded_SW_Contest/assets/47583083/0c6f1025-83c5-4b8f-8326-a89373e92b72)
